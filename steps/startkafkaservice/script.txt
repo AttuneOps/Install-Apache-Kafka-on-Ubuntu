@@ -1,0 +1,4 @@
+systemctl start kafka
+systemctl enable zookeeper
+systemctl enable kafka
+systemctl status kafka

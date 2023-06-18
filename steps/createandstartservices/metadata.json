@@ -1,0 +1,23 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "d3da3924-12d3-4305-adc6-30a13e0dd9d9", 
+    "isBlueprint": false, 
+    "key": "createandstartservices", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "createzookeeperservice"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "createkafkaservice"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "startkafkaservice"
+        }
+    ], 
+    "name": "Create and Start Services", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "004a7f94-8f45-4831-8449-c1f56f5afa72", 
+    "interpreter": 1, 
+    "key": "createkafkaservice", 
+    "name": "Create kafka Service", 
+    "osCredKey": "sudouser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

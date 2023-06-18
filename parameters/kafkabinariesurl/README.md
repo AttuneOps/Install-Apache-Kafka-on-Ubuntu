@@ -1,0 +1,1 @@
+Get the kafka Binaries URL here: https://downloads.apache.org/kafka/

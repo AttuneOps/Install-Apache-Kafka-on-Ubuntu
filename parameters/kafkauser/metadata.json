@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "4c36aa89-f926-469b-8857-b71aca6af434", 
+    "key": "kafkauser", 
+    "name": "kafka User", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.LinOsCred"
+}

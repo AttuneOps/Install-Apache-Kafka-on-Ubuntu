@@ -1,0 +1,2 @@
+adduser {kafkaUser.user}
+adduser {kafkaUser.user} sudo

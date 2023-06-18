@@ -1,0 +1,4 @@
+mkdir ~/Downloads
+curl "{kafkaBinariesUrl}" -o ~/Downloads/kafka.tgz
+mkdir ~/kafka && cd ~/kafka
+tar -xvzf ~/Downloads/kafka.tgz --strip 1

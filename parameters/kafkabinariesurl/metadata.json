@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "42c6c28e-95a8-4ae8-a108-f9b494812485", 
+    "key": "kafkabinariesurl", 
+    "name": "kafka Binaries URL", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.Text"
+}

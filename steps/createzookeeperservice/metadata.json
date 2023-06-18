@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "6ce121b4-5da1-401c-8b6e-e849bde0a39c", 
+    "interpreter": 1, 
+    "key": "createzookeeperservice", 
+    "name": "Create zookeeper Service", 
+    "osCredKey": "sudouser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

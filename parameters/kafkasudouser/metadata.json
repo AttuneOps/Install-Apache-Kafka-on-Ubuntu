@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "8150b7c0-f94f-4ec7-be88-3292e960cb04", 
+    "key": "kafkasudouser", 
+    "name": "kafka Sudo User", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.LinOsCred"
+}
