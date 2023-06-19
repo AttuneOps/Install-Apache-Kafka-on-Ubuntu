@@ -13,3 +13,4 @@ Restart=on-abnormal
 [Install]
 WantedBy=multi-user.target
 EOF
+cat /etc/systemd/system/zookeeper.service

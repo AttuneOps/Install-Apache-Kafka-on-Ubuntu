@@ -5,7 +5,7 @@
     "key": "createauserforkafka", 
     "name": "Create a User for Kafka", 
     "osCredKey": "sudouser", 
-    "promptResponses": "New password:==={kafkaUser.pw}\nRetype new password:==={kafkaUser.pw}\nFull Name []:===\nRoom Number []:===\nWork Phone []:===\nHome Phone []:===\nOther []:===\nIs the information correct?===Y", 
+    "promptResponses": "New password:==={kafkaUser.password}\nRetype new password:==={kafkaUser.password}\nFull Name []:===\nRoom Number []:===\nWork Phone []:===\nHome Phone []:===\nOther []:===\nIs the information correct? [Y/n]===Y", 
     "serverKey": "ubuntunode", 
     "successExitCode": 0, 
     "type": "com.servertribe.attune.tuples.StepSshPromptedTuple"

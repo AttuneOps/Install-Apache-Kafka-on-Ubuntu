@@ -86,6 +86,15 @@ can easily accomplish this by following our instructions on
 .
 
 
+If you encounter any issues or have any concerns regarding these instructions, 
+please feel free to log them 
+[here](https://github.com/Attune-Automation/Install-Apache-Kafka-on-Ubuntu/issues).
+
+Please feel free to fork this project from 
+[GitHub](https://github.com/Attune-Automation/Install-Apache-Kafka-on-Ubuntu)
+if you'd like to contribute to improving these instructions.
+
+
 
 
 ## Parameters
@@ -93,12 +102,12 @@ can easily accomplish this by following our instructions on
 
 | Name | Type | Script Reference | Comment |
 | ---- | ---- | ---------------- | ------- |
-| Ubuntu Node | Linux/Unix Node | `ubuntunode` |  |
-| Sudo User | Linux/Unix Credential | `sudouser` |  |
-| User | Linux/Unix Credential | `user` |  |
-| kafka User | Linux/Unix Credential | `kafkauser` |  |
-| kafka Sudo User | Linux/Unix Credential | `kafkasudouser` |  |
 | kafka Binaries URL | Text | `kafkabinariesurl` | Get the kafka Binaries URL here: https://downloads.apache.org/kafka/ |
+| kafka Sudo User | Linux/Unix Credential | `kafkasudouser` |  |
+| kafka User | Linux/Unix Credential | `kafkauser` |  |
+| Sudo User | Linux/Unix Credential | `sudouser` |  |
+| Ubuntu Node | Linux/Unix Node | `ubuntunode` |  |
+| User | Linux/Unix Credential | `user` |  |
 
 
 

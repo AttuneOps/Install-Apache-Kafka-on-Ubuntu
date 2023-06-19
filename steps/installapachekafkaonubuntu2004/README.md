@@ -26,3 +26,12 @@ Another prerequisite is the installation of OpenJDK 11 on your server. You
 can easily accomplish this by following our instructions on 
 [Installing Java on Ubuntu](https://www.attuneautomation.com/Install-Java-on-Ubuntu/)
 .
+
+
+If you encounter any issues or have any concerns regarding these instructions, 
+please feel free to log them 
+[here](https://github.com/Attune-Automation/Install-Apache-Kafka-on-Ubuntu/issues).
+
+Please feel free to fork this project from 
+[GitHub](https://github.com/Attune-Automation/Install-Apache-Kafka-on-Ubuntu)
+if you'd like to contribute to improving these instructions.
