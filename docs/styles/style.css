@@ -5,6 +5,10 @@ body {
     color: #4d5b7c;
 }
 
+.blueprint-description a {
+    color: #0062cc;
+}
+
 a {
     color: inherit;
 }
